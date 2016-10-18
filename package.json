@@ -1,0 +1,30 @@
+{
+  "name": "slider-carousel",
+  "version": "1.0.0",
+  "description": "A slider Carousel Library",
+  "main": "./dist/index.js",
+  "scripts": {
+    "dev": "webpack -d --watch",
+    "build": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arun1048576/SliderCarousel.git"
+  },
+  "author": "Arun Premkumar (arun1048576)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arun1048576/SliderCarousel/issues"
+  },
+  "homepage": "https://github.com/Arun1048576/SliderCarousel",
+  "devDependencies": {
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
