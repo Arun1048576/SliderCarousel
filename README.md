@@ -1,2 +1,3 @@
-A Slider Carousel Library
+
+#A Slider Carousel Library#
 Work in Progress
